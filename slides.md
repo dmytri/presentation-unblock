@@ -122,7 +122,7 @@ scheme
 - block reward is a fixed ratio to the amount of hashing (work)needed to verify the block
 
 ---
-
+<img src="Antminer_S19.png" height="300"><img src="stranded_gas.png" height="300"></br>
 #### Value comes from work
 Where is the work in a blockchain?</br>
 208915318781930100000 Chip-level operations (Hashes) / s</br>
@@ -164,7 +164,7 @@ Computation is physical work</br>
 
 ---
 
-## HAKET can provide the same distributed consensus verified append-only ledger without the speculative volatility of Bitcoin. Because it si rational, it's price will always represent a specific quantum of work. 
+## HAKET can provide the same distributed consensus verified append-only ledger without the speculative volatility of Bitcoin. Because it is rational, it's price will always represent a specific quantum of work. 
 
 ---
 
