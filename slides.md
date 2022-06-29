@@ -124,23 +124,61 @@ scheme
 ---
 
 #### Value comes from work
-Where is the work in a blockchain
-Computation is work: How? 
+Where is the work in a blockchain?</br>
+208915318781930100000 Chip-level operations (Hashes) / s</br></br>
+
+Computation is physical work
 
 <p>&nbsp;</p>
 
 #### Dead & living labour
 
-<table> <tr> <td>
+<table> <tr> <td center>
 	<h4>dead labour </h4>
-	<ul> <li>Hardware</li>
+	<ul><li>Hardware</li>
 	<li>computational hardware</li>
 		<li>electricity grid / infrastructure</li></ul>
   </td>
-<td> <h4>living labour </h4>
-<ul> <li>Maintenance</li>
+<td center> <h4>living labour </h4>
+<ul><li>Maintenance</li>
  <li>Office work</li></ul>
   </td></tr></table>
+
+---
+<center>
+<img src="difficulty.png" width="1024">
+	</center>
+
+---
+
+<center>
+<img src="BTC_hash_price.png" width="1024">
+	</center>
+	
+---
+
+##The base value of a Bitcoin is all the work which goes into to maintaining the reliable affordace of Bitcoin as a distributed cryptographically secure transaction service.
+
+---
+
+##Services built on the affordance of Bitcoin, based on the value of the work in Bitcoin, add value according to the supplementary labour in the service, generate profits according to the dominant mode (capitalist worker exploitation).
+
+---
+
+##There is no new value paradigm in Bitcoin. Bitcoin is a speculative asset who's price is dissociated from its value and so will always be volatile. Same thing for Ethereum. 
+
+---
+
+##HAKET can provide the same distributed consensus verified append-only ledger without the speculative volatility of Bitcoin. Because it si rational, it's price will always represent a specific quantum of work. 
+
+---
+
+##Lets talk about value at our workshop!</br>
+##what it is, and what we need it for!
+
+
+
+
 
 
 
