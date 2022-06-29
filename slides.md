@@ -125,8 +125,8 @@ scheme
 
 #### Value comes from work
 Where is the work in a blockchain?</br>
-208915318781930100000 Chip-level operations (Hashes) / s</br></br>
-Computation is physical work</br></br>
+208915318781930100000 Chip-level operations (Hashes) / s</br>
+Computation is physical work</br>
 #### Dead & living labour
 <table> <tr> <td center>
 	<h4>dead labour </h4>
