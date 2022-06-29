@@ -115,6 +115,8 @@ scheme
 - in-game money
 - Irrational because of the design flaw which dissociates block reward from difficulty / hashing / work
 
+<p/>&nbsp;</p>
+
 ### HAKET can be a money
 - A Rational Cryptocurrency
 - block reward is a fixed ratio to the amount of hashing (work)needed to verify the block
