@@ -128,17 +128,18 @@ Where is the work in a blockchain
 Computation is work: How? 
 
 <p>&nbsp;</p>
-#### Dead & iving labour
+#### Dead & living labour
+
 <table> <tr> <td>
-	<h5>dead labour </h5>
-	- Hardware
-	- computational hardware
-	- electricity grid / infrastructure
+	<h4>dead labour </h4>
+	<ul> <li>Hardware</li>
+	<li>computational hardware</li>
+		<li>electricity grid / infrastructure</li></ul>
   </td>
 <td>
 	<h5>living labour </h5>
-- Maintenance
-- Office work
+<ul> <li>Maintenance</li>
+ <li>Office work</li></ul>
   </td></tr></table>
 
 
