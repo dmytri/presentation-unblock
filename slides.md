@@ -126,13 +126,8 @@ scheme
 #### Value comes from work
 Where is the work in a blockchain?</br>
 208915318781930100000 Chip-level operations (Hashes) / s</br></br>
-
-Computation is physical work
-
-<p>&nbsp;</p>
-
+Computation is physical work</br></br>
 #### Dead & living labour
-
 <table> <tr> <td center>
 	<h4>dead labour </h4>
 	<ul><li>Hardware</li>
@@ -157,24 +152,24 @@ Computation is physical work
 	
 ---
 
-##The base value of a Bitcoin is all the work which goes into to maintaining the reliable affordace of Bitcoin as a distributed cryptographically secure transaction service.
+## The base value of a Bitcoin is all the work which goes into to maintaining the reliable affordace of Bitcoin as a distributed cryptographically secure transaction service.
 
 ---
 
-##Services built on the affordance of Bitcoin, based on the value of the work in Bitcoin, add value according to the supplementary labour in the service, generate profits according to the dominant mode (capitalist worker exploitation).
+## Services built on the affordance of Bitcoin, based on the value of the work in Bitcoin, add value according to the supplementary labour in the service, generate profits according to the dominant mode (capitalist worker exploitation).
 
 ---
 
-##There is no new value paradigm in Bitcoin. Bitcoin is a speculative asset who's price is dissociated from its value and so will always be volatile. Same thing for Ethereum. 
+## There is no new value paradigm in Bitcoin. Bitcoin is a speculative asset who's price is dissociated from its value and so will always be volatile. Same thing for Ethereum. 
 
 ---
 
-##HAKET can provide the same distributed consensus verified append-only ledger without the speculative volatility of Bitcoin. Because it si rational, it's price will always represent a specific quantum of work. 
+## HAKET can provide the same distributed consensus verified append-only ledger without the speculative volatility of Bitcoin. Because it si rational, it's price will always represent a specific quantum of work. 
 
 ---
 
-##Lets talk about value at our workshop!</br>
-##what it is, and what we need it for!
+## Lets talk about value at our workshop!</br>
+## what it is, and what we need it for!
 
 
 
