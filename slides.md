@@ -128,6 +128,7 @@ Where is the work in a blockchain
 Computation is work: How? 
 
 <p>&nbsp;</p>
+
 #### Dead & living labour
 
 <table> <tr> <td>
