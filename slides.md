@@ -115,11 +115,30 @@ scheme
 - in-game money
 - Irrational because of the design flaw which dissociates block reward from difficulty / hashing / work
 
-<p/>&nbsp;</p>
+<p>&nbsp;</p>
 
 ### HAKET can be a money
 - A Rational Cryptocurrency
 - block reward is a fixed ratio to the amount of hashing (work)needed to verify the block
+
+---
+
+#### Value comes from work
+Where is the work in a blockchain
+Computation is work: How? 
+
+<p>&nbsp;</p>
+<table> <tr> <td>
+##### Dead & iving labour
+- (dead) Hardware
+	- computational hardware
+	- electricity grid / infrastructure
+  </td>
+<td>
+##### living
+- Maintenance
+- Office work
+  </td></tr></table>
 
 
 
