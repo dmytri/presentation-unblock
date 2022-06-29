@@ -1,0 +1,14 @@
+{
+  "name": "unblock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "reveal-md": "^5.3.3"
+  },
+  "scripts": {
+    "start": "reveal-md slides.md --theme myleague.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
