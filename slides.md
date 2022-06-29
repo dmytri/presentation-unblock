@@ -136,8 +136,7 @@ Computation is work: How?
 	<li>computational hardware</li>
 		<li>electricity grid / infrastructure</li></ul>
   </td>
-<td>
-	<h5>living labour </h5>
+<td> <h4>living labour </h4>
 <ul> <li>Maintenance</li>
  <li>Office work</li></ul>
   </td></tr></table>
