@@ -122,7 +122,7 @@ scheme
 - block reward is a fixed ratio to the amount of hashing (work)needed to verify the block
 
 ---
-<img src="Antminer_S19.png" height="250"><img src="stranded_gas.png" height="250"></br>
+<img src="Antminer_S19.png" height="250"> <img src="stranded_gas.png" height="250"></br>
 #### Value comes from work
 Where is the work in a blockchain?</br>
 208915318781930100000 Chip-level operations (Hashes) / s</br>
@@ -130,8 +130,7 @@ Computation is physical work</br>
 #### Dead & living labour
 <table> <tr> <td center>
 	<h4>dead labour </h4>
-	<ul><li>Hardware</li>
-	<li>computational hardware</li>
+	<ul><li>computational hardware</li>
 		<li>electricity grid / infrastructure</li></ul>
   </td>
 <td center> <h4>living labour </h4>
