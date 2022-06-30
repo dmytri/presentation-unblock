@@ -5,11 +5,15 @@ revealOptions:
 ---
 # Haket.info
 
-<img src="haket.png">
+<img src="src/haket.png">
 
 ---
 
 > What is value of Bitcoin?
+
+---
+
+> Bitcoin was intended to be digital money for an ideal perfect market for libertarian capitalists, instead Bitcoin has turned out to primarily benefit bankers and speculators at the expense of the environment and the real economy.
 
 
 ---
@@ -122,12 +126,19 @@ scheme
 - block reward is a fixed ratio to the amount of hashing (work)needed to verify the block
 
 ---
-<img src="Antminer_S19.png" height="250"><img src="stranded_gas.png" height="250"></br>
+<img src="src/Antminer_S19.png" height="250"><img src="stranded_gas.png" height="250"><br/>
 #### Value comes from work
+
+<small>
+
 Where is the work in a blockchain?</br>
-208915318781930100000 Chip-level operations (Hashes) / s</br>
+208915318781930100000 Chip-level operations (Hashes) / <br/>
 Computation is physical work</br>
+
+</small>
+
 #### Dead & living labour
+<small>
 <table> <tr> <td center>
 	<h4>dead labour </h4>
 	<ul><li>Hardware</li>
@@ -138,37 +149,37 @@ Computation is physical work</br>
 <ul><li>Maintenance</li>
  <li>Office work</li></ul>
   </td></tr></table>
-
+</small>
 ---
 <center>
-<img src="difficulty.png" width="1024">
+<img src="src/difficulty.png" width="1024">
 	</center>
 
 ---
 
 <center>
-<img src="BTC_hash_price.png" width="1024">
+<img src="src/BTC_hash_price.png" width="1024">
 	</center>
 	
 ---
 
-## The base value of a Bitcoin is all the work which goes into to maintaining the reliable affordace of Bitcoin as a distributed cryptographically secure transaction service.
+The base value of a Bitcoin is all the work which goes into to maintaining the reliable affordace of Bitcoin as a distributed cryptographically secure transaction service.
 
 ---
 
-## Services built on the affordance of Bitcoin, based on the value of the work in Bitcoin, add value according to the supplementary labour in the service, generate profits according to the dominant mode (capitalist worker exploitation).
+Services built on the affordance of Bitcoin, based on the value of the work in Bitcoin, add value according to the supplementary labour in the service, generate profits according to the dominant mode (capitalist worker exploitation).
 
 ---
 
-## There is no new value paradigm in Bitcoin. Bitcoin is a speculative asset who's price is dissociated from its value and so will always be volatile. Same thing for Ethereum. 
+There is no new value paradigm in Bitcoin. Bitcoin is a speculative asset who's price is dissociated from its value and so will always be volatile. Same thing for Ethereum. 
 
 ---
 
-## HAKET can provide the same distributed consensus verified append-only ledger without the speculative volatility of Bitcoin. Because it is rational, it's price will always represent a specific quantum of work. 
+Haket can provide the same distributed consensus verified append-only ledger without the speculative volatility of Bitcoin. Because it is rational, it's price will always represent a specific quantum of work. 
 
 ---
 
-## Lets talk about value at our workshop!</br>
+### Lets talk about value at our workshop!
 ## what it is, and what we need it for!
 
 
