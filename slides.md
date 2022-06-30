@@ -126,7 +126,7 @@ scheme
 - block reward is a fixed ratio to the amount of hashing (work)needed to verify the block
 
 ---
-<img src="src/Antminer_S19.png" height="250"><img src="stranded_gas.png" height="250"><br/>
+<img src="src/Antminer_S19.png" height="250"><img src="src/strandedgas.png" height="250"><br/>
 #### Value comes from work
 
 <small>
