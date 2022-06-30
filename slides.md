@@ -167,6 +167,7 @@ Computation is physical work</br>
 ## HAKET can provide the same distributed consensus verified append-only ledger without the speculative volatility of Bitcoin. Because it is rational, it's price will always represent a specific quantum of work. 
 
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PwwEyGLoirA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Lets talk about value at our workshop!</br>
 ## what it is, and what we need it for!
