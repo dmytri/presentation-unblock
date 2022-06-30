@@ -132,7 +132,7 @@ scheme
 <small>
 
 Where is the work in a blockchain?</br>
-208915318781930100000 Chip-level operations (Hashes) / <br/>
+(in Bitcoin) 208915318781930100000 Chip-level operations (Hashes) / s</br>
 Computation is physical work</br>
 
 </small>
@@ -141,8 +141,7 @@ Computation is physical work</br>
 <small>
 <table> <tr> <td center>
 	<h4>dead labour </h4>
-	<ul><li>Hardware</li>
-	<li>computational hardware</li>
+	<ul><li>computational hardware</li>
 		<li>electricity grid / infrastructure</li></ul>
   </td>
 <td center> <h4>living labour </h4>
@@ -178,6 +177,7 @@ There is no new value paradigm in Bitcoin. Bitcoin is a speculative asset who's 
 Haket can provide the same distributed consensus verified append-only ledger without the speculative volatility of Bitcoin. Because it is rational, it's price will always represent a specific quantum of work. 
 
 ---
+<a href="https://www.youtube.com/watch?v=PwwEyGLoirA"><img src="src/antchain.png" border="0" width="350"></a>
 
 ### Lets talk about value at our workshop!
 ## what it is, and what we need it for!
