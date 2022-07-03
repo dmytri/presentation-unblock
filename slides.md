@@ -151,13 +151,15 @@ Computation is physical work</br>
 </small>
 ---
 <center>
-<img src="src/difficulty.png" width="1024">
+<img src="src/difficulty.png" width="1024"></br>
+over the past few months, for the first time Bitcoin price has sharply declined while difficulty (hashing) has continued to rise. This is likely due to the fact that a new generation of mining ASICs, the AntMiner S19 is making mining significantly more energy efficient. 
 	</center>
 
 ---
 
 <center>
-<img src="src/BTC_hash_price.png" width="1024">
+<img src="src/BTC_hash_price.png" width="1024"></br>
+hashes have never been cheaper, implying that Bitcoin price is falling towards its cost of production - probabilistically, the proportional cost of all labour input to the computer work to mine each Bitcoin. 
 	</center>
 	
 ---
