@@ -96,8 +96,8 @@ schème
 - Compositions de portefeuille et le moment Minsky
 
 ---
-### Bitcoin est de l'argent drôle
-- de l'argent en jeu
+### Bitcoin est de l'argent casino
+- de l'argent en jeu (jeu en vie-réele)
 - Irrationnel à cause du défaut de conception qui dissocie la récompense du bloc de la difficulté / du hachage / du travail
 
 <p>&nbsp;</p>
