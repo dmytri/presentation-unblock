@@ -83,7 +83,7 @@ prix bas -> moins de travail définis -> offre fixe -> prix plus bas -> répéti
 *Les forces du marché exacerbent la volonté.
 
 ---
-Les forces du marché exacerbent la réaliser* --- ### La récompense irrationnelle des blocs de Bitcoin crée une boucle de rétroaction positive qui fait exploser sa valeur.
+### La récompense irrationnelle des blocs de Bitcoin crée une boucle de rétroaction positive qui fait exploser sa valeur.
 ---
 - Bitcoin peut avoir une valeur stable si la récompense de bloc est fonction de la difficulté, et là pour plus de travail résulte en plus d'offre
 
