@@ -132,7 +132,7 @@ Le calcul est un travail physique</br>
 </small>
 ---
 <center>
-<img src="src/difficulté.png" width="1024"></br>
+<img src="src/difficulty.png" width="1024"></br>
 au cours des derniers mois, pour la première fois, le prix du Bitcoin a fortement baissé tandis que la difficulté (hachage) a continué d'augmenter. Cela est probablement dû au fait qu'une nouvelle génération d'ASIC miniers, l'AntMiner S19, rend l'exploitation minière beaucoup plus économe en énergie.
 </center>
 
